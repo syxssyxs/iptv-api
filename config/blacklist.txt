@@ -7,17 +7,20 @@
 
 #屏蔽网站
 jzb.wwkejishe.top
-112.99.193.34:9901
+www.freetv.top
 xxwx.yoesun.com
+hebtv.com
+kcdnvip.com
+wscdns.com
+otttv.bj.chinamobile.com
 mgtv.ottiptv.cc
 epg.pw
+pendy.dpdns.org
+112.99.193.34:9901
+freetv.fun
 
 #屏蔽节目台
 #理由：节目错乱
-http://112.99.193.34:9901/tsfile/live/1017_1.m3u8
-http://112.99.193.34:9901/tsfile/live/1036_1.m3u8
-http://112.99.193.34:9901/tsfile/live/1022_1.m3u8
-http://xxwx.yoesun.com/xxw/1905电影网.php
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #理由：仅声音
 http://113.106.171.234:8899/rtp/239.20.0.236:2270
@@ -25,18 +28,9 @@ http://117.174.25.254:8188/rtp/239.0.0.51:5140
 http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 
 #理由：花屏
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8
-https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
-#理由：无法播放
-https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-https:///migu/641886683.m3u8
 
+#理由：无法播放
 https://jzb.wwkejishe.top/?id=582
-https://event.pull.hebtv.com/jishi/cp1.m3u8
-https://event.pull.hebtv.com/jishi/cp2.m3u8
 http://106.53.99.30/tv/cctv13.php
 
 http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
-https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
