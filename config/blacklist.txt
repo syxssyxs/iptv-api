@@ -19,9 +19,9 @@ epg.pw
 pendy.dpdns.org
 112.99.193.34:9901
 freetv.fun
-
+tv.qntv.net
 miguvideo.com
-
+8.138.7.223
 
 #屏蔽节目台
 #理由：节目错乱
